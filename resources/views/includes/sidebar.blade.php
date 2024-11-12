@@ -50,25 +50,25 @@
                 @include('includes.menus.menu-user')
                 @endif
 
-                <!-- <li
+                {{--  <!--<li
                 class="sidebar-item  has-sub">
                 <a href="#" class='sidebar-link'>
                     <i class="bi bi-grid-1x2-fill"></i>
                     <span>Layouts</span>
                 </a>
-                
+
                 <ul class="submenu ">
                     <li class="submenu-item  ">
                         <a href="layout-default.html" class="submenu-link">Default Layout</a>
-                        
+
                     </li>
                     <li class="submenu-item  ">
                         <a href="layout-vertical-1-column.html" class="submenu-link">1 Column</a>
-                    </li>                    
+                    </li>
                 </ul>
-                
 
-            </li> -->
+
+            </li>-->  --}}
 
             </ul>
         </div>
